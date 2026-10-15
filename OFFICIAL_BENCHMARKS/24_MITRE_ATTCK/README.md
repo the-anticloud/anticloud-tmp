@@ -1,0 +1,25 @@
+# 24_MITRE_ATTCK - tmp
+
+**Project:** tmp (POLICE_CIVIC)
+**Upstream:** https://github.com/sdushantha/tmpmail
+**Pinned commit:** 637090f0f056...
+**BENCH.json SHA3-256:** `b7bf1c6992a742fa0af4f4de1a104eea35fb60f874cd816dfe28574e7eda5a34`
+
+## Control set
+
+This folder binds the 24_MITRE_ATTCK control set to measured evidence.
+Each control maps to a check in the 16-check assurance suite; results
+are recorded per-row in ISOLATED_LAB_RESULTS/03_Result_Register.md
+with the pass condition, exact command, observed value, and the
+SHA3-256 of that check’s own evidence file.
+
+## Evidence
+
+- Suite report: `BENCH.json` (SHA3-256 above)
+- Per-check register: `ISOLATED_LAB_RESULTS/03_Result_Register.md`
+- Evidence files: `ISOLATED_LAB_RESULTS/04_Evidence/`
+
+No certification is claimed. Frameworks are reported against with
+evidence on disk; certification is a roadmap item.
+
+> Self-assessment only. No external audit has been performed. A SOC 2 / NIST independent audit is committed post-funding.
