@@ -1,14 +1,12 @@
 # tmp
 
-> This directory contains the full 30-folder standard documentation set for `tmp`:
+> This repo is full of throwaway programs not really intended for general consumption. If you must:
 
-**Category:** POLICE_CIVIC · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/sdushantha/tmpmail · **Pinned commit:** `637090f0f056df4550b52547f9cf4699f4bfd755` · **Vendor:** Anticloud FZ LLE
-
-> **Note:** this package vendors `https://github.com/sdushantha/tmpmail` as the implementation for the `tmp` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
+**Category:** POLICE_CIVIC · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/rsc/tmp · **Pinned commit:** `b7beb8858fb17c59095eaa20270e931be78b07bf` · **Vendor:** Anticloud FZ LLE
 
 ## What This Project Is
 
-This directory contains the full 30-folder standard documentation set for `tmp`:
+This repo is full of throwaway programs not really intended for general consumption. If you must:
 
 This is the upstream project, vendored at the pinned commit above and packaged offline-first. The 12 improvements Anticloud adds live in `anticloud/` and are described under *Anticloud Overlay* below. Every fact in this file traces to a file in this directory.
 
@@ -62,7 +60,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-10822184a807f165aa8d47a9b153dae773581a90bd11d9a5bd60bd4ac0f4c362
+0926422615d303a0f06cda828d9f4dcae6b3060a44134a057b9dba690eee1d2a
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.

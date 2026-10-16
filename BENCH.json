@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "637090f0f056df4550b52547f9cf4699f4bfd755",
-   "url": "https://github.com/sdushantha/tmpmail",
-   "branch": "master",
-   "sha_verified_from": "GitHub API commits/master"
+   "url": "https://github.com/rsc/tmp",
+   "head": "b7beb8858fb17c59095eaa20270e931be78b07bf",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/sdushantha/tmpmail"
   }
  }
 }
